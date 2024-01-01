@@ -1,3 +1,20 @@
 body {
-    background-color: black;
+    background-color: lightslategray;
+    margin: 0;
+    padding: 0;
+}
+
+#userImage {
+    width: 60vw;
+    height: 500px;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+#userImage--image {
+    height: 100%;
+}
+
+#userImage--image img {
+    height: 100%;
 }
